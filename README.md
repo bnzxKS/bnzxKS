@@ -1,4 +1,4 @@
-###BEM VINDO AO FODA-SE
+### Bem vindos ao foda-se 
 
 
 **bnzxKS/bnzxKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
